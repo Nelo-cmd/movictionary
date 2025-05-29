@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movictionary/static/css/main.69bb1baf.css",
+    "main.js": "/movictionary/static/js/main.1e985144.js",
+    "static/js/453.b6336c8f.chunk.js": "/movictionary/static/js/453.b6336c8f.chunk.js",
+    "index.html": "/movictionary/index.html",
+    "main.69bb1baf.css.map": "/movictionary/static/css/main.69bb1baf.css.map",
+    "main.1e985144.js.map": "/movictionary/static/js/main.1e985144.js.map",
+    "453.b6336c8f.chunk.js.map": "/movictionary/static/js/453.b6336c8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bb1baf.css",
+    "static/js/main.1e985144.js"
+  ]
+}
